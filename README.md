@@ -1,9 +1,15 @@
 [![Analytics](https://ga-beacon.appspot.com/UA-80121379-2/notes-python)](https://github.com/lijin-thu/notes-python)
 
 # 中文 Python 笔记
+**本笔记在李金的版本基础上结合自己需求进行调整，版权属于原作者，增加内容为公开版权。**
+## TODO
+* 改python2 为python3
+
+
+
 
 > 版本：0.0.1<br>
-> 作者：李金<br>
+> 原作者：李金<br>
 > 邮件：lijinwithyou@gmail.com<br>
 
 由于涉及著作权的问题，对基于本笔记所做的修订、改编，目前不做任何正式授权。
